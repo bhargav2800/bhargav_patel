@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/bhargav2800"> <img src="https://komarev.com/ghpvc/?username=jaydeep-talaviya&style=for-the-badge&color=blue"> </a>
+         <a href="https://github.com/bhargav2800"> <img src="https://komarev.com/ghpvc/?username=Bhargav-Patel&style=for-the-badge&color=blue"> </a>
       </td>
     </tr>
   </table>
@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **Software Engineer | Full Stack | React Js | Python | Django | DRF | FastApi | Postgresql | MySql**
 
-- 📫 How to reach me **jaydeeptalaviya7@gmail.com**
+- 📫 How to reach me **bhargav.py.developer@gmail.com**
 
 - ⚡ Fun fact **Despite my deep dive into code and digital solutions, I’m an avid history enthusiast. Exploring random facts and learning about different cultures and diversity offers a refreshing counterbalance to the structured realm of software development.**
 
@@ -50,14 +50,14 @@
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=jaydeep-talaviya&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=bhargav-patel&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
 
 <p align="center">
   <a href="https://github.com/bhargav2800">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-talaviya&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargav-patel&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
@@ -77,4 +77,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jaydeep-talaviya/jaydeep-talaviya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bhargav-patel/bhargav-patel/output/snake.svg" alt="Snake animation" />
